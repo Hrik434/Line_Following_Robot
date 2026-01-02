@@ -1,0 +1,8 @@
+Added Component: Designator=e5rry(2 pin header)
+Added Component: Designator=iajsfv(TCRT5000)
+Added Pin To Net: NetName=GND Pin=e5rry-1
+Added Pin To Net: NetName=GND Pin=e5rry-2
+Added Pin To Net: NetName=GND Pin=iajsfv-2
+Added Pin To Net: NetName=GND Pin=iajsfv-4
+Added Member To Class: ClassName=Sheet1 Member=Component e5rry 2 pin header
+Added Member To Class: ClassName=Sheet1 Member=Component iajsfv TCRT5000

@@ -1,0 +1,65 @@
+Added Component: Designator=MUX1(Multiplexer)
+Added Component: Designator=MUX2(Multiplexer)
+Add Pin To Net: Unknown Pin: Pin MUX1-1
+Add Pin To Net: Unknown Pin: Pin MUX1-2
+Add Pin To Net: Unknown Pin: Pin MUX1-3
+Add Pin To Net: Unknown Pin: Pin MUX1-4
+Add Pin To Net: Unknown Pin: Pin MUX1-5
+Add Pin To Net: Unknown Pin: Pin MUX1-6
+Add Pin To Net: Unknown Pin: Pin MUX1-7
+Add Pin To Net: Unknown Pin: Pin MUX1-8
+Add Pin To Net: Unknown Pin: Pin MUX1-9
+Add Pin To Net: Unknown Pin: Pin MUX1-10
+Add Pin To Net: Unknown Pin: Pin MUX1-11
+Add Pin To Net: Unknown Pin: Pin MUX1-12
+Add Pin To Net: Unknown Pin: Pin MUX1-13
+Add Pin To Net: Unknown Pin: Pin MUX1-14
+Add Pin To Net: Unknown Pin: Pin MUX1-15
+Add Pin To Net: Unknown Pin: Pin MUX1-16
+Add Pin To Net: Unknown Pin: Pin MUX1-17
+Add Pin To Net: Unknown Pin: Pin MUX1-18
+Add Pin To Net: Unknown Pin: Pin MUX1-19
+Add Pin To Net: Unknown Pin: Pin MUX1-20
+Add Pin To Net: Unknown Pin: Pin MUX1-21
+Add Pin To Net: Unknown Pin: Pin MUX1-22
+Add Pin To Net: Unknown Pin: Pin MUX1-23
+Add Pin To Net: Unknown Pin: Pin MUX1-24
+Add Pin To Net: Unknown Pin: Pin MUX2-1
+Add Pin To Net: Unknown Pin: Pin MUX2-2
+Add Pin To Net: Unknown Pin: Pin MUX2-3
+Add Pin To Net: Unknown Pin: Pin MUX2-4
+Add Pin To Net: Unknown Pin: Pin MUX2-5
+Add Pin To Net: Unknown Pin: Pin MUX2-6
+Add Pin To Net: Unknown Pin: Pin MUX2-7
+Add Pin To Net: Unknown Pin: Pin MUX2-8
+Add Pin To Net: Unknown Pin: Pin MUX2-9
+Add Pin To Net: Unknown Pin: Pin MUX2-10
+Add Pin To Net: Unknown Pin: Pin MUX2-11
+Add Pin To Net: Unknown Pin: Pin MUX2-12
+Add Pin To Net: Unknown Pin: Pin MUX2-13
+Add Pin To Net: Unknown Pin: Pin MUX2-14
+Add Pin To Net: Unknown Pin: Pin MUX2-15
+Add Pin To Net: Unknown Pin: Pin MUX2-16
+Add Pin To Net: Unknown Pin: Pin MUX2-17
+Add Pin To Net: Unknown Pin: Pin MUX2-18
+Add Pin To Net: Unknown Pin: Pin MUX2-19
+Add Pin To Net: Unknown Pin: Pin MUX2-20
+Add Pin To Net: Unknown Pin: Pin MUX2-21
+Add Pin To Net: Unknown Pin: Pin MUX2-22
+Add Pin To Net: Unknown Pin: Pin MUX2-23
+Add Pin To Net: Unknown Pin: Pin MUX2-24
+Added Member To Class: ClassName=Sheet1 Member=Component 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component AREF
+Added Member To Class: ClassName=Sheet1 Member=Component Button_pin1
+Added Member To Class: ClassName=Sheet1 Member=Component Button_pin2
+Added Member To Class: ClassName=Sheet1 Member=Component Motor1_pin1
+Added Member To Class: ClassName=Sheet1 Member=Component Motor1_pin2
+Added Member To Class: ClassName=Sheet1 Member=Component Motor2_pin1
+Added Member To Class: ClassName=Sheet1 Member=Component Motor2_pin2
+Added Member To Class: ClassName=Sheet1 Member=Component RESET1
+Added Member To Class: ClassName=Sheet1 Member=Component RESET2
+Added Member To Class: ClassName=Sheet1 Member=Component RX
+Added Member To Class: ClassName=Sheet1 Member=Component Switch_pin1
+Added Member To Class: ClassName=Sheet1 Member=Component Switch_pin2
+Added Member To Class: ClassName=Sheet1 Member=Component TX
+Added Member To Class: ClassName=Sheet1 Member=Component VIN

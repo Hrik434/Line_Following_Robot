@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=TX Pin=Arduino_Nano-1
+Removed Pin From Net: NetName=RX Pin=Arduino_Nano-2
+Removed Pin From Net: NetName=R1 Pin=Arduino_Nano-3
+Removed Pin From Net: NetName=GND Pin=Arduino_Nano-4
+Removed Pin From Net: NetName=D2 Pin=Arduino_Nano-5
+Removed Pin From Net: NetName=D3 Pin=Arduino_Nano-6
+Removed Pin From Net: NetName=D4 Pin=Arduino_Nano-7
+Removed Pin From Net: NetName=D5 Pin=Arduino_Nano-8
+Removed Pin From Net: NetName=D6 Pin=Arduino_Nano-9
+Removed Pin From Net: NetName=D7 Pin=Arduino_Nano-10
+Removed Pin From Net: NetName=D8 Pin=Arduino_Nano-11
+Removed Pin From Net: NetName=D9 Pin=Arduino_Nano-12
+Removed Pin From Net: NetName=D10 Pin=Arduino_Nano-13
+Removed Pin From Net: NetName=D11 Pin=Arduino_Nano-14
+Removed Pin From Net: NetName=D12 Pin=Arduino_Nano-15
+Removed Pin From Net: NetName=D13 Pin=Arduino_Nano-16
+Removed Pin From Net: NetName=3V3 Pin=Arduino_Nano-17
+Removed Pin From Net: NetName=ARE Pin=Arduino_Nano-18
+Removed Pin From Net: NetName=A0 Pin=Arduino_Nano-19
+Removed Pin From Net: NetName=A1 Pin=Arduino_Nano-20
+Removed Pin From Net: NetName=A2 Pin=Arduino_Nano-21
+Removed Pin From Net: NetName=A3 Pin=Arduino_Nano-22
+Removed Pin From Net: NetName=A4 Pin=Arduino_Nano-23
+Removed Pin From Net: NetName=A5 Pin=Arduino_Nano-24
+Removed Pin From Net: NetName=A6 Pin=Arduino_Nano-25
+Removed Pin From Net: NetName=A7 Pin=Arduino_Nano-26
+Removed Pin From Net: NetName=+5 Pin=Arduino_Nano-27
+Removed Pin From Net: NetName=R2 Pin=Arduino_Nano-28
+Removed Pin From Net: NetName=GND Pin=Arduino_Nano-29
+Removed Pin From Net: NetName=VIN Pin=Arduino_Nano-30
+Added Component: Designator=Arduino_nano(Arduino_nano)
+Add Pin To Net: Unknown Pin: Pin 3V3-1
+Added Pin To Net: NetName=TX Pin=Arduino_nano-1
+Added Pin To Net: NetName=RX Pin=Arduino_nano-2
+Added Pin To Net: NetName=R1 Pin=Arduino_nano-3
+Added Pin To Net: NetName=GND Pin=Arduino_nano-4
+Added Pin To Net: NetName=D2 Pin=Arduino_nano-5
+Added Pin To Net: NetName=D3 Pin=Arduino_nano-6
+Added Pin To Net: NetName=D4 Pin=Arduino_nano-7
+Added Pin To Net: NetName=D5 Pin=Arduino_nano-8
+Added Pin To Net: NetName=D6 Pin=Arduino_nano-9
+Added Pin To Net: NetName=D7 Pin=Arduino_nano-10
+Added Pin To Net: NetName=D8 Pin=Arduino_nano-11
+Added Pin To Net: NetName=D9 Pin=Arduino_nano-12
+Added Pin To Net: NetName=D10 Pin=Arduino_nano-13
+Added Pin To Net: NetName=D11 Pin=Arduino_nano-14
+Added Pin To Net: NetName=D12 Pin=Arduino_nano-15
+Added Pin To Net: NetName=D13 Pin=Arduino_nano-16
+Added Pin To Net: NetName=3V3 Pin=Arduino_nano-17
+Added Pin To Net: NetName=ARE Pin=Arduino_nano-18
+Added Pin To Net: NetName=A0 Pin=Arduino_nano-19
+Added Pin To Net: NetName=A1 Pin=Arduino_nano-20
+Added Pin To Net: NetName=A2 Pin=Arduino_nano-21
+Added Pin To Net: NetName=A3 Pin=Arduino_nano-22
+Added Pin To Net: NetName=A4 Pin=Arduino_nano-23
+Added Pin To Net: NetName=A5 Pin=Arduino_nano-24
+Added Pin To Net: NetName=A6 Pin=Arduino_nano-25
+Added Pin To Net: NetName=A7 Pin=Arduino_nano-26
+Added Pin To Net: NetName=+5 Pin=Arduino_nano-27
+Added Pin To Net: NetName=R2 Pin=Arduino_nano-28
+Added Pin To Net: NetName=GND Pin=Arduino_nano-29
+Added Pin To Net: NetName=VIN Pin=Arduino_nano-30
+Add Pin To Net: Unknown Pin: Pin AREF-1
+Add Pin To Net: Unknown Pin: Pin Button_pin1-1
+Add Pin To Net: Unknown Pin: Pin Button_pin2-1
+Add Pin To Net: Unknown Pin: Pin Motor1_pin1-1
+Add Pin To Net: Unknown Pin: Pin Motor1_pin2-1
+Add Pin To Net: Unknown Pin: Pin Motor2_pin1-1
+Add Pin To Net: Unknown Pin: Pin Motor2_pin2-1
+Add Pin To Net: Unknown Pin: Pin MUX1-1
+Add Pin To Net: Unknown Pin: Pin MUX1-2
+Add Pin To Net: Unknown Pin: Pin MUX1-3
+Add Pin To Net: Unknown Pin: Pin MUX1-4
+Add Pin To Net: Unknown Pin: Pin MUX1-5
+Add Pin To Net: Unknown Pin: Pin MUX1-6
+Add Pin To Net: Unknown Pin: Pin MUX1-7
+Add Pin To Net: Unknown Pin: Pin MUX1-8
+Add Pin To Net: Unknown Pin: Pin MUX1-9
+Add Pin To Net: Unknown Pin: Pin MUX1-10
+Add Pin To Net: Unknown Pin: Pin MUX1-11
+Add Pin To Net: Unknown Pin: Pin MUX1-12
+Add Pin To Net: Unknown Pin: Pin MUX1-13
+Add Pin To Net: Unknown Pin: Pin MUX1-14
+Add Pin To Net: Unknown Pin: Pin MUX1-15
+Add Pin To Net: Unknown Pin: Pin MUX1-16
+Add Pin To Net: Unknown Pin: Pin MUX1-17
+Add Pin To Net: Unknown Pin: Pin MUX1-18
+Add Pin To Net: Unknown Pin: Pin MUX1-19
+Add Pin To Net: Unknown Pin: Pin MUX1-20
+Add Pin To Net: Unknown Pin: Pin MUX1-21
+Add Pin To Net: Unknown Pin: Pin MUX1-22
+Add Pin To Net: Unknown Pin: Pin MUX1-23
+Add Pin To Net: Unknown Pin: Pin MUX1-24
+Add Pin To Net: Unknown Pin: Pin MUX2-1
+Add Pin To Net: Unknown Pin: Pin MUX2-2
+Add Pin To Net: Unknown Pin: Pin MUX2-3
+Add Pin To Net: Unknown Pin: Pin MUX2-4
+Add Pin To Net: Unknown Pin: Pin MUX2-5
+Add Pin To Net: Unknown Pin: Pin MUX2-6
+Add Pin To Net: Unknown Pin: Pin MUX2-7
+Add Pin To Net: Unknown Pin: Pin MUX2-8
+Add Pin To Net: Unknown Pin: Pin MUX2-9
+Add Pin To Net: Unknown Pin: Pin MUX2-10
+Add Pin To Net: Unknown Pin: Pin MUX2-11
+Add Pin To Net: Unknown Pin: Pin MUX2-12
+Add Pin To Net: Unknown Pin: Pin MUX2-13
+Add Pin To Net: Unknown Pin: Pin MUX2-14
+Add Pin To Net: Unknown Pin: Pin MUX2-15
+Add Pin To Net: Unknown Pin: Pin MUX2-16
+Add Pin To Net: Unknown Pin: Pin MUX2-17
+Add Pin To Net: Unknown Pin: Pin MUX2-18
+Add Pin To Net: Unknown Pin: Pin MUX2-19
+Add Pin To Net: Unknown Pin: Pin MUX2-20
+Add Pin To Net: Unknown Pin: Pin MUX2-21
+Add Pin To Net: Unknown Pin: Pin MUX2-22
+Add Pin To Net: Unknown Pin: Pin MUX2-23
+Add Pin To Net: Unknown Pin: Pin MUX2-24
+Add Pin To Net: Unknown Pin: Pin RESET1-1
+Add Pin To Net: Unknown Pin: Pin RESET2-1
+Add Pin To Net: Unknown Pin: Pin RX-1
+Add Pin To Net: Unknown Pin: Pin Switch_pin1-1
+Add Pin To Net: Unknown Pin: Pin Switch_pin2-1
+Add Pin To Net: Unknown Pin: Pin TX-1
+Add Pin To Net: Unknown Pin: Pin VIN-1

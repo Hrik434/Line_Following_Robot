@@ -1,0 +1,51 @@
+Removed Member From Class: ClassName=Sheet1 Member=MUX1
+Added Component: Designator=MUX(MUX)
+Add Pin To Net: Unknown Pin: Pin MUX2-1
+Add Pin To Net: Unknown Pin: Pin MUX2-2
+Add Pin To Net: Unknown Pin: Pin MUX2-3
+Add Pin To Net: Unknown Pin: Pin MUX2-4
+Add Pin To Net: Unknown Pin: Pin MUX2-5
+Add Pin To Net: Unknown Pin: Pin MUX2-6
+Add Pin To Net: Unknown Pin: Pin MUX2-7
+Add Pin To Net: Unknown Pin: Pin MUX2-8
+Add Pin To Net: Unknown Pin: Pin MUX2-9
+Add Pin To Net: Unknown Pin: Pin MUX2-10
+Add Pin To Net: Unknown Pin: Pin MUX2-11
+Add Pin To Net: Unknown Pin: Pin MUX2-12
+Add Pin To Net: Unknown Pin: Pin MUX2-13
+Add Pin To Net: Unknown Pin: Pin MUX2-14
+Add Pin To Net: Unknown Pin: Pin MUX2-15
+Add Pin To Net: Unknown Pin: Pin MUX2-16
+Add Pin To Net: Unknown Pin: Pin MUX2-17
+Add Pin To Net: Unknown Pin: Pin MUX2-18
+Add Pin To Net: Unknown Pin: Pin MUX2-19
+Add Pin To Net: Unknown Pin: Pin MUX2-20
+Add Pin To Net: Unknown Pin: Pin MUX2-21
+Add Pin To Net: Unknown Pin: Pin MUX2-22
+Add Pin To Net: Unknown Pin: Pin MUX2-23
+Add Pin To Net: Unknown Pin: Pin MUX2-24
+Added Pin To Net: NetName=O1 Pin=MUX-1
+Added Pin To Net: NetName=O2 Pin=MUX-2
+Added Pin To Net: NetName=O3 Pin=MUX-3
+Added Pin To Net: NetName=O4 Pin=MUX-4
+Added Pin To Net: NetName=O5 Pin=MUX-5
+Added Pin To Net: NetName=O6 Pin=MUX-6
+Added Pin To Net: NetName=O7 Pin=MUX-7
+Added Pin To Net: NetName=O8 Pin=MUX-8
+Added Pin To Net: NetName=O9 Pin=MUX-9
+Added Pin To Net: NetName=O10 Pin=MUX-10
+Added Pin To Net: NetName=O11 Pin=MUX-11
+Added Pin To Net: NetName=O12 Pin=MUX-12
+Added Pin To Net: NetName=O13 Pin=MUX-13
+Added Pin To Net: NetName=O14 Pin=MUX-14
+Added Pin To Net: NetName=O15 Pin=MUX-15
+Added Pin To Net: NetName=O16 Pin=MUX-16
+Added Pin To Net: NetName=GND Pin=MUX-17
+Added Pin To Net: NetName=+5 Pin=MUX-18
+Added Pin To Net: NetName=GND Pin=MUX-19
+Added Pin To Net: NetName=D2 Pin=MUX-20
+Added Pin To Net: NetName=D3 Pin=MUX-21
+Added Pin To Net: NetName=D4 Pin=MUX-22
+Added Pin To Net: NetName=D5 Pin=MUX-23
+Added Pin To Net: NetName=A6 Pin=MUX-24
+Added Member To Class: ClassName=Sheet1 Member=Component MUX

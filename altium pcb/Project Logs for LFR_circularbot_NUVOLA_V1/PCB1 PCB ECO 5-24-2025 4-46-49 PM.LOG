@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=O13 Pin=MUX-13
+Removed Pin From Net: NetName=O14 Pin=MUX-14
+Removed Pin From Net: NetName=O15 Pin=MUX-15
+Removed Pin From Net: NetName=O16 Pin=MUX-16
+Change Component Designator: OldDesignator=MUX NewDesignator=MUX1
+Added Component: Designator=MUX2(MUX)
+Added Pin To Net: NetName=GND Pin=MUX1-13
+Added Pin To Net: NetName=GND Pin=MUX1-14
+Added Pin To Net: NetName=GND Pin=MUX1-15
+Added Pin To Net: NetName=GND Pin=MUX1-16
+Added Pin To Net: NetName=O13 Pin=MUX2-1
+Added Pin To Net: NetName=O14 Pin=MUX2-2
+Added Pin To Net: NetName=O15 Pin=MUX2-3
+Added Pin To Net: NetName=O16 Pin=MUX2-4
+Added Pin To Net: NetName=O17 Pin=MUX2-5
+Added Pin To Net: NetName=O18 Pin=MUX2-6
+Added Pin To Net: NetName=O19 Pin=MUX2-7
+Added Pin To Net: NetName=O20 Pin=MUX2-8
+Added Pin To Net: NetName=O21 Pin=MUX2-9
+Added Pin To Net: NetName=O22 Pin=MUX2-10
+Added Pin To Net: NetName=O23 Pin=MUX2-11
+Added Pin To Net: NetName=O24 Pin=MUX2-12
+Added Pin To Net: NetName=GND Pin=MUX2-13
+Added Pin To Net: NetName=GND Pin=MUX2-14
+Added Pin To Net: NetName=GND Pin=MUX2-15
+Added Pin To Net: NetName=GND Pin=MUX2-16
+Added Pin To Net: NetName=GND Pin=MUX2-17
+Added Pin To Net: NetName=+5 Pin=MUX2-18
+Added Pin To Net: NetName=GND Pin=MUX2-19
+Added Pin To Net: NetName=D6 Pin=MUX2-20
+Added Pin To Net: NetName=D7 Pin=MUX2-21
+Added Pin To Net: NetName=D8 Pin=MUX2-22
+Added Pin To Net: NetName=D12 Pin=MUX2-23
+Added Pin To Net: NetName=A7 Pin=MUX2-24

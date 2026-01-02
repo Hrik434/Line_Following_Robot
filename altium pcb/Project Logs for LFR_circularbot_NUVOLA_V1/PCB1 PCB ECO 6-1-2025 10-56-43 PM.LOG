@@ -1,0 +1,6 @@
+Added Component: Designator=5V(1_pin_male_header)
+Added Component: Designator=12V(1_pin_male_header)
+Added Pin To Net: NetName=+5 Pin=5V-1
+Added Pin To Net: NetName=+12 Pin=12V-1
+Added Member To Class: ClassName=Sheet1 Member=Component 5V
+Added Member To Class: ClassName=Sheet1 Member=Component 12V

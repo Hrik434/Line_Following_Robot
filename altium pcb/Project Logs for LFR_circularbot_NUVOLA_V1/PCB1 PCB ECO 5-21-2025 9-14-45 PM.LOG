@@ -1,0 +1,176 @@
+Removed Pin From Net: NetName=GND Pin=e-P
+Change Component Comment : Designator=e Old Comment=XT60-M New Comment=
+Change Component Designator: OldDesignator=e NewDesignator=XT60-M
+Added Component: Designator=3V3(male_header)
+Added Component: Designator=Arduino_Nano(PCBComponent_1)
+Added Component: Designator=AREF(male_header)
+Added Component: Designator=Buck_converter(Buck_converter)
+Add Component: Footprint Not Found single_header_pin
+Add Component: Footprint Not Found single_header_pin
+Add Component: Footprint Not Found male_header
+Add Component: Footprint Not Found male_header
+Add Component: Footprint Not Found male_header
+Add Component: Footprint Not Found male_header
+Added Component: Designator=Motor_Driver(TB6612_Motor_driver)
+Added Component: Designator=MUX1(Multiplexer)
+Added Component: Designator=MUX2(Multiplexer)
+Added Component: Designator=RESET1(male_header)
+Added Component: Designator=RESET2(male_header)
+Added Component: Designator=RX(male_header)
+Add Component: Footprint Not Found PCBComponent_1 - duplicate
+Added Component: Designator=SONAR(4 pin male)
+Add Component: Footprint Not Found male_header
+Add Component: Footprint Not Found male_header
+Added Component: Designator=TX(male_header)
+Added Component: Designator=VIN(male_header)
+Added Pin To Net: NetName=GND Pin=Arduino_Nano-4
+Added Pin To Net: NetName=+5 Pin=Arduino_Nano-27
+Added Pin To Net: NetName=GND Pin=Arduino_Nano-29
+Added Pin To Net: NetName=GND Pin=Buck_converter-2
+Added Pin To Net: NetName=+5 Pin=Buck_converter-3
+Added Pin To Net: NetName=GND Pin=Buck_converter-4
+Add Pin To Net: Unknown Pin: Pin Button_pin1-1
+Added Pin To Net: NetName=+5 Pin=Motor_Driver-2
+Added Pin To Net: NetName=GND Pin=Motor_Driver-3
+Added Pin To Net: NetName=GND Pin=Motor_Driver-8
+Added Pin To Net: NetName=GND Pin=Motor_Driver-9
+Added Pin To Net: NetName=+5 Pin=Motor_Driver-13
+Add Pin To Net: Unknown Pin: Pin MUX1-1
+Add Pin To Net: Unknown Pin: Pin MUX1-2
+Add Pin To Net: Unknown Pin: Pin MUX1-3
+Add Pin To Net: Unknown Pin: Pin MUX1-4
+Add Pin To Net: Unknown Pin: Pin MUX1-5
+Add Pin To Net: Unknown Pin: Pin MUX1-6
+Add Pin To Net: Unknown Pin: Pin MUX1-7
+Add Pin To Net: Unknown Pin: Pin MUX1-8
+Add Pin To Net: Unknown Pin: Pin MUX1-9
+Add Pin To Net: Unknown Pin: Pin MUX1-10
+Add Pin To Net: Unknown Pin: Pin MUX1-11
+Add Pin To Net: Unknown Pin: Pin MUX1-12
+Add Pin To Net: Unknown Pin: Pin MUX1-13
+Add Pin To Net: Unknown Pin: Pin MUX1-14
+Add Pin To Net: Unknown Pin: Pin MUX1-15
+Add Pin To Net: Unknown Pin: Pin MUX1-16
+Add Pin To Net: Unknown Pin: Pin MUX1-18
+Add Pin To Net: Unknown Pin: Pin MUX1-19
+Add Pin To Net: Unknown Pin: Pin MUX1-24
+Add Pin To Net: Unknown Pin: Pin MUX2-1
+Add Pin To Net: Unknown Pin: Pin MUX2-2
+Add Pin To Net: Unknown Pin: Pin MUX2-3
+Add Pin To Net: Unknown Pin: Pin MUX2-4
+Add Pin To Net: Unknown Pin: Pin MUX2-5
+Add Pin To Net: Unknown Pin: Pin MUX2-6
+Add Pin To Net: Unknown Pin: Pin MUX2-7
+Add Pin To Net: Unknown Pin: Pin MUX2-8
+Add Pin To Net: Unknown Pin: Pin MUX2-9
+Add Pin To Net: Unknown Pin: Pin MUX2-10
+Add Pin To Net: Unknown Pin: Pin MUX2-11
+Add Pin To Net: Unknown Pin: Pin MUX2-12
+Add Pin To Net: Unknown Pin: Pin MUX2-13
+Add Pin To Net: Unknown Pin: Pin MUX2-14
+Add Pin To Net: Unknown Pin: Pin MUX2-15
+Add Pin To Net: Unknown Pin: Pin MUX2-16
+Add Pin To Net: Unknown Pin: Pin MUX2-18
+Add Pin To Net: Unknown Pin: Pin MUX2-19
+Add Pin To Net: Unknown Pin: Pin MUX2-24
+Add Pin To Net: Unknown Pin: Pin Servo-1
+Add Pin To Net: Unknown Pin: Pin Servo-3
+Added Pin To Net: NetName=+5 Pin=SONAR-1
+Added Pin To Net: NetName=GND Pin=SONAR-2
+Added Pin To Net: NetName=+12 Pin=Motor_Driver-1
+Added Net: Name=+12
+Added Pin To Net: NetName=3V3 Pin=Arduino_Nano-17
+Added Net: Name=3V3
+Added Pin To Net: NetName=A0 Pin=Arduino_Nano-19
+Added Pin To Net: NetName=A0 Pin=SONAR-3
+Added Net: Name=A0
+Added Pin To Net: NetName=A1M Pin=Motor_Driver-4
+Added Net: Name=A1M
+Added Pin To Net: NetName=A1 Pin=Arduino_Nano-20
+Added Pin To Net: NetName=A1 Pin=SONAR-4
+Added Net: Name=A1
+Added Pin To Net: NetName=A2M Pin=Motor_Driver-5
+Added Net: Name=A2M
+Added Pin To Net: NetName=A2 Pin=Arduino_Nano-21
+Added Pin To Net: NetName=A2 Pin=Motor_Driver-15
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=Arduino_Nano-22
+Added Pin To Net: NetName=A3 Pin=Motor_Driver-14
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=Arduino_Nano-23
+Added Pin To Net: NetName=A4 Pin=Motor_Driver-12
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=Arduino_Nano-24
+Added Pin To Net: NetName=A5 Pin=Motor_Driver-11
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=Arduino_Nano-25
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=Arduino_Nano-26
+Added Net: Name=A7
+Added Pin To Net: NetName=AREF Pin=Arduino_Nano-18
+Added Net: Name=AREF
+Added Pin To Net: NetName=B1M Pin=Motor_Driver-6
+Added Net: Name=B1M
+Added Pin To Net: NetName=B2M Pin=Motor_Driver-7
+Added Net: Name=B2M
+Added Pin To Net: NetName=D2 Pin=Arduino_Nano-5
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=Arduino_Nano-6
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=Arduino_Nano-7
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=Arduino_Nano-8
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=Arduino_Nano-9
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=Arduino_Nano-10
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=Arduino_Nano-11
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=Arduino_Nano-12
+Added Pin To Net: NetName=D9 Pin=Motor_Driver-16
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=Arduino_Nano-13
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=Arduino_Nano-14
+Added Pin To Net: NetName=D11 Pin=Motor_Driver-10
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=Arduino_Nano-15
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=Arduino_Nano-16
+Added Net: Name=D13
+Added Pin To Net: NetName=high_voltage Pin=Buck_converter-1
+Added Net: Name=high_voltage
+Added Pin To Net: NetName=R1 Pin=Arduino_Nano-3
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=Arduino_Nano-28
+Added Net: Name=R2
+Added Pin To Net: NetName=RX Pin=Arduino_Nano-2
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=Arduino_Nano-1
+Added Net: Name=TX
+Added Pin To Net: NetName=VIN Pin=Arduino_Nano-30
+Added Net: Name=VIN
+Added Member To Class: ClassName=Sheet1 Member=Component 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component Arduino_Nano
+Added Member To Class: ClassName=Sheet1 Member=Component AREF
+Added Member To Class: ClassName=Sheet1 Member=Component Buck_converter
+Add Class Member: Failed to add class member : Component Button_pin1
+Add Class Member: Failed to add class member : Component Button_pin2
+Add Class Member: Failed to add class member : Component Motor1_pin1
+Add Class Member: Failed to add class member : Component Motor1_pin2
+Add Class Member: Failed to add class member : Component Motor2_pin1
+Add Class Member: Failed to add class member : Component Motor2_pin2
+Added Member To Class: ClassName=Sheet1 Member=Component Motor_Driver
+Added Member To Class: ClassName=Sheet1 Member=Component MUX1
+Added Member To Class: ClassName=Sheet1 Member=Component MUX2
+Added Member To Class: ClassName=Sheet1 Member=Component RESET1
+Added Member To Class: ClassName=Sheet1 Member=Component RESET2
+Added Member To Class: ClassName=Sheet1 Member=Component RX
+Add Class Member: Failed to add class member : Component Servo
+Added Member To Class: ClassName=Sheet1 Member=Component SONAR
+Add Class Member: Failed to add class member : Component Switch_pin1
+Add Class Member: Failed to add class member : Component Switch_pin2
+Added Member To Class: ClassName=Sheet1 Member=Component TX
+Added Member To Class: ClassName=Sheet1 Member=Component VIN
+Added Rule: Name=Schematic Supply Nets_2

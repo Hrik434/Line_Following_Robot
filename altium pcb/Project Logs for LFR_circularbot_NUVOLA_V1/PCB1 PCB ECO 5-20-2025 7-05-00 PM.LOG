@@ -1,0 +1,9 @@
+Added Component: Designator=*(Resistor(1k))
+Add Component: Footprint Not Found TCRT5000
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Add Pin To Net: Unknown Pin: Pin h-1
+Add Pin To Net: Unknown Pin: Pin h-3
+Add Pin To Net: Unknown Pin: Pin h-4
+Added Member To Class: ClassName=Sheet1 Member=Component * Resistor(1k)
+Add Class Member: Failed to add class member : Component h TCRT5000
